@@ -20,6 +20,7 @@ Projeto desenvolvido durante o Bootcamp [Potência Tech iFood - Desenvolvimento 
 
 <p align="center">
   <img src="screenshot.png" title="screenshot" alt="screenshot do jogo">
+  <img src="screenshot2.png" title="screenshot" alt="screenshot do jogo">
 </p>
 
 ## 📌 Créditos:
